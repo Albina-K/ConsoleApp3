@@ -9,7 +9,7 @@ namespace ConsoleApp3
 {
     internal class Program
     {
-       public static void Main(string[] args)
+        public static void Main(string[] args)
         {
             string MyName = "Albina";
             byte MyAge = 36;
@@ -23,6 +23,12 @@ namespace ConsoleApp3
 
             Console.ReadLine();
         }
+          enum Semaphore
+
+        {   Red = 100,
+            Yellow = 200,
+            Green = 300
+         }
     }
 }
 
