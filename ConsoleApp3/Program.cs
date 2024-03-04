@@ -13,7 +13,7 @@ namespace ConsoleApp3
             string MyName;
             MyName = "Albina";
             Console.WriteLine(MyName);
-
+            Console.ReadLine();
         }
     }
 }
