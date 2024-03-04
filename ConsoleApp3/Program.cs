@@ -16,10 +16,10 @@ namespace ConsoleApp3
             bool HaveIApet = true;
             double MyShoeSize = 36.5;
 
-            Console.WriteLine("My name is" + MyName);
-            Console.WriteLine("My age is" + MyAge);
-            Console.WriteLine("Do I have a pet?" + HaveIApet);
-            Console.WriteLine("My shoe size is" + MyShoeSize);
+            Console.WriteLine("My name is " + MyName);
+            Console.WriteLine("My age is " + MyAge);
+            Console.WriteLine("Do I have a pet? " + HaveIApet);
+            Console.WriteLine("My shoe size is " + MyShoeSize);
 
             Console.ReadLine();
         }
